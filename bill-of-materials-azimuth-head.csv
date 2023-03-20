@@ -1,0 +1,29 @@
+Name,Quantity,Description,Comment
+Flanged Button Screw M3 x 10mm (ISO 7380-2),15,Used to screw the enclosure and milled parts together,
+Flanged Button Screw M3 x 10mm (ISO 7380-2),10,Laser holder,Optional
+Bearing 6005 - 25mm x 47mm x 12mm (DIN 625 - T1),2,,
+Retaining ring 25mm x 1.2mm (DIN 471),1,,
+Bolt M4 x 20mm (DIN 912),9,,
+Bolt M4 x 16mm (DIN 912),4,Used to bolt the outer sleeve and shaft holder together,
+Plain washer 4.3mm (DIN 125-1),13,,
+Step motor Pololu 1205,1,,
+Socket set screw M3 x 4mm (DIN 913),2,Used to hold the rotary joint and to mount the gear to the motor shaft,
+Bolt M2.5 x 8mm (DIN 912),4,Used to mount the motor,
+Plain washer 2.7mm (DIN 125-1),4,,
+Rotary joint SR1803,1,,
+Azimuth head shaft,1,Milled nylon part,
+Sleeve with gear,1,Milled steel part,
+Azimuth head tribrach adapter,1,Milled steel part,
+Gear,1,Milled steel part,
+Motor mount,1,Milled steel part,
+Shaft mount,1,Milled steel part,
+Tribrach stud,3,Milled steel part,
+Azimuth head enclosure bottom part 1,1,3d printed part,
+Azimuth head enclosure bottom part 2,1,3d printed part,
+Head enclosure top,1,3d printed part,
+PCB holder,1,3d printed part,
+Laser holder part 1,1,3d printed part,Optional
+Laser holder part 2,1,3d printed part,Optional
+Laser holder part 3,1,3d printed part,Optional
+Laser holder part 4,1,3d printed part,Optional
+Laser holder part 5,1,3d printed part,Optional
